@@ -48,4 +48,4 @@ Make sure to provide the correct file paths and names as command-line arguments.
 - Verify CUDA device information and adjust GPU settings if needed.
 - For optimal performance, consider running the code on a machine with a compatible NVIDIA GPU.
 
-Feel free to contact me at saadwasem@gmail.com for any questions or issues related to the code.
+Feel free to contact me at saadwasem@gmail.com for data or any questions related to the project.
